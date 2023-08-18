@@ -2,7 +2,7 @@ import "../styles/globals.css";
 
 // components
 import Layout from "../components/Layout";
-import { Transition } from "../components/Transition";
+import Transition from "../components/Transition";
 
 // router
 import { useRouter } from "next/router";
